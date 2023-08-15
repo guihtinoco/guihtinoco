@@ -30,3 +30,8 @@ background-color: rgb(0,0,0);
     opacity: 0.8;
 
 }
+.box {
+    height: 20px;
+    width: 1000px;
+    background-color: rgb(13, 9, 228);
+  }
